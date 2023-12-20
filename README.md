@@ -10,5 +10,6 @@ This script allows you to replicate labels from one GitHub repository to another
 ## Usage
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/github-label-replicator.git
+  ```bash
+  git clone https://github.com/yourusername/github-label-replicator.git
+  ```
