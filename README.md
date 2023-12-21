@@ -13,8 +13,8 @@ A simple Python script to replicate GitHub labels from one repository to another
   - Use the following commands to clone the repository and navigate into the directory:
 
   ```bash
-  git clone https://github.com/moeshu/RepoLabelReplicator.git
-  cd RepoLabelReplicator
+  git clone https://github.com/moeshu/GitHub-Label-Replicator.git
+  cd GitHub-Label-Replicator
   ```
 
 2. **Run python file**
